@@ -14,7 +14,7 @@
   </defs>
   <g clip-path="url(#clip)">
     <rect width="150" height="34" fill="url(#g-left)"/>
-    <rect x="150" width="100" height="34" fill="url(#g-right)"/>
+    <rect x="140" width="100" height="34" fill="url(#g-right)"/>
     <text x="70" y="22" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="middle">BrianQi</text>
     <text x="200" y="22" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="700" fill="#332600" text-anchor="middle">伟大</text>
   </g>
