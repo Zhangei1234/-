@@ -1,6 +1,6 @@
 # -- 一次尝试 --
 
-*~~&nbsp;&nbsp;&nbsp;&nbsp;“好蠢的名字” 伟大的BrianQi如是说~~*
+*&nbsp;&nbsp;&nbsp;~~&nbsp;&nbsp;&nbsp;&nbsp;“好蠢的名字” 伟大的BrianQi如是说&nbsp;&nbsp;&nbsp;&nbsp;~~*
 
 ## 你好你好~
 
