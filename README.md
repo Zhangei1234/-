@@ -1,6 +1,6 @@
 # -- 一次尝试 --
 
-##你好你好~
+## 你好你好~
 
 > ![Zhangei](badge-zhangei.svg)
 >
