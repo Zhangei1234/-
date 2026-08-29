@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="250" height="34" viewBox="0 0 250 34">
   <defs>
     <clipPath id="clip">
-      <rect width="250" height="34" rx="7"/>
+      <rect width="240" height="34" rx="7"/>
     </clipPath>
     <linearGradient id="g-left" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#4a3f2a"/>
